@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-color {
+  background-color: #161625;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.log-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  width: 80%;
+}
+
+.logo {
+  height: 60px;
+  align-self: center;
+  margin-right: 15px;
+}
+
+.logo-text {
+  font-family: Roboto;
+  font-size: 25px;
+  color: aqua;
+  align-self: center;
+}
+
+.discription {
+  font-family: Roboto;
+  font-size: 40px;
+  color: #cbd5e1;
+  width: 80%;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
